@@ -49,7 +49,7 @@ SauceDemo — https://www.saucedemo.com/
 
 Os quatro cenários descritos foram executados e apresentaram os comportamentos esperados.
 
-O escopo deste projeto é limitado ao fluxo de login e não representa uma avaliação completa da aplicação.
+O escopo deste projeto é limitado ao fluxo de login e não representa uma avaliação completa da aplicação
 
 ## Autor
 
